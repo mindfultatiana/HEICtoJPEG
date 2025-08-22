@@ -39,4 +39,8 @@ Failed: 0
 Total processed: 142
 ```
 Your converted files should be in your new location.
-
+## Optional
+When running the program you can choose the quality you want the outcoming JPEG to be from a 1-100 scale
+```
+Users\Username\Downloads python.exe heic_converter.py 90
+```
